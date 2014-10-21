@@ -1,5 +1,5 @@
 
-![SHMail](http://s9.postimg.org/4hcwvukzj/shmail.png)
+![SHMail](https://raw.githubusercontent.com/GDGAracaju/shmail/master/resources/shmail.png)
 
 shmail
 ======
